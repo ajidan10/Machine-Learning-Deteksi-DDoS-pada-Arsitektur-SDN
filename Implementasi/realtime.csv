@@ -1,0 +1,2 @@
+Tot Fwd Pkts,Tot Bwd Pkts,Fwd Pkt Len Max,Fwd Pkt Len Mean,Bwd Pkt Len Max,Bwd Pkt Len Mean,Bwd Pkt Len Std,Flow Pkts/s,Fwd Header Len,Bwd Header Len,Fwd Pkts/s,Bwd Pkts/s,Pkt Len Max,Pkt Len Mean,Pkt Len Std,FIN Flag Cnt,SYN Flag Cnt,Pkt Size Avg,Fwd Seg Size Avg,Subflow Fwd Pkts,Subflow Bwd Pkts,Subflow Bwd Byts,Init Bwd Win Byts
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0,40,1.0,18.0,1.0,0.0016339869281045752,0.040389565667674106,0,0,1.0,54.0,0.0,0.0,0.0,0.0
